@@ -1,0 +1,5 @@
+# Ignore keys
+keys/*
+
+# Ignore playbook backup
+playbook.yml.bkp
